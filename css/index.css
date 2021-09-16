@@ -1,5 +1,5 @@
 body{
-    font-family: Gill Sans, sans-serif;
-    background-color: maroon;
-    text-align: center;
+    font-family: Gill Sans, sans-serif; /*Fonts*/
+    background-color: maroon; /*Background color*/
+    text-align: center; /*Alignment*/
 }
