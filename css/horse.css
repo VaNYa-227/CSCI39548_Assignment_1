@@ -1,5 +1,5 @@
 body{
-    font-family: cursive;
-    background-color:saddlebrown;
-    text-align: center;
+    font-family: cursive; /*Fonts*/
+    background-color:saddlebrown; /*Background color*/
+    text-align: center; /*Alignment*/
 }

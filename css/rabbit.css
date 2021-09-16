@@ -1,5 +1,5 @@
 body{
-    font-family: serif;
-    background-color:springgreen;
-    text-align: center;
+    font-family: serif; /*Fonts*/
+    background-color:springgreen; /*Background color*/
+    text-align: center; /*Alignment*/
 }
